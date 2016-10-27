@@ -45,6 +45,7 @@ namespace Calculator
     {
         public string Join(string firstName, string lastName)
         {
+            //random comment
             return firstName + " " + lastName;
         }
     }
