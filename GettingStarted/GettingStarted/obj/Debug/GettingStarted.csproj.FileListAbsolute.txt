@@ -4,3 +4,6 @@ c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingSt
 c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
 c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
 c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb

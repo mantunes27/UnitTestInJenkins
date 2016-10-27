@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\Calculator.Tests.dll" total="7" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-10-27" time="15:16:32">
+  <environment nunit-version="3.5.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.10586.0" platform="Win32NT" cwd="C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted" machine-name="LON-7270-033" user="MAntunes" user-domain="FOURTH" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\Calculator.Tests.dll" executed="True" result="Failure" success="False" time="0.131" asserts="7">
+    <properties>
+      <property name="_PID" value="7424" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+      <stack-trace />
+    </failure>
+    <results>
+      <test-suite type="TestSuite" name="Calculator" executed="True" result="Failure" success="False" time="0.107" asserts="7">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+          <stack-trace />
+        </failure>
+        <results>
+          <test-suite type="TestSuite" name="Tests" executed="True" result="Failure" success="False" time="0.104" asserts="7">
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+              <stack-trace />
+            </failure>
+            <results>
+              <test-suite type="TestFixture" name="SimpleCalculatorTests" executed="True" result="Failure" success="False" time="0.099" asserts="7">
+                <failure>
+                  <message><![CDATA[One or more child tests had errors]]></message>
+                  <stack-trace />
+                </failure>
+                <results>
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldAddDouble" executed="True" result="Success" success="True" time="0.020" asserts="1" />
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldAddTwoNumbers" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldJoinName_CaseInsentitiveAssertDemo" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldJoinNames" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldJoinNames_NotEqualDemo" executed="True" result="Success" success="True" time="0.007" asserts="1" />
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldMultiplyTwoNumbers" executed="True" result="Failure" success="False" time="0.030" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Expected: 200
+  But was:  20
+]]></message>
+                      <stack-trace><![CDATA[at Calculator.Tests.SimpleCalculatorTests.ShouldMultiplyTwoNumbers() in C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\Class1.cs:line 33
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="Calculator.Tests.SimpleCalculatorTests.ShouldNotBeBiggerThan100" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

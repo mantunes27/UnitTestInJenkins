@@ -7,3 +7,12 @@ c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\Calculato
 c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\Calculator.Tests\bin\Debug\nunit.framework.xml
 c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.dll
 c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\GettingStarted.exe
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\GettingStarted.pdb
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\MAntunes\Documents\GitHub\UnitTestInJenkins\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

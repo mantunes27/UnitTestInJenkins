@@ -30,7 +30,7 @@ namespace Calculator.Tests
 
             var result = sut.Multiply(2, 10);
 
-            Assert.That(result, Is.EqualTo(20));
+            Assert.That(result, Is.EqualTo(200));
         }
 
         [Test]
