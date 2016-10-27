@@ -1,0 +1,6 @@
+c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe.config
+c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojResolveAssemblyReference.cache
+c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.exe
+c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.exe
+c:\users\mantunes\documents\visual studio 2015\Projects\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
